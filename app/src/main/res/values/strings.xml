@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Silver Touch Demo</string>
+
+    <string name="title_search">Search</string>
+    <string name="title_filter">Filter</string>
+    <string name="title_no_data_found">No Data Found</string>
+
+    <string name="title_menu_add_category">Add Category</string>
+    <string name="title_menu_add_contact">Add Contact</string>
+    <string name="title_menu_contact_list">Contact List</string>
+
+    <string name="header_title_contacts">Contacts</string>
+    <string name="header_title_add_contact">Add Contact</string>
+    <string name="title_dialog_confirmation">Confirmation</string>
+    <string name="title_dialog_msg_category_delete">Are you sure you want to delete this category?</string>
+    <string name="title_dialog_msg_contact_delete">Are you sure you want to delete this contact?</string>
+    <string name="title_proceed">Proceed</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_update">Update</string>
+    <string name="title_submit">Submit</string>
+
+</resources>

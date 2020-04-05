@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextInputLayoutAppearance" parent="Widget.Design.TextInputLayout">
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:textColorHint">@color/colorTextSecondary</item>
+        <item name="android:backgroundTint">@null</item>
+        <item name="colorPrimary">@color/colorTextSecondary</item>
+    </style>
+
+    <style name="TextInputEditTextAppearance" parent="Widget.AppCompat.EditText">
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:textColorHint">@color/colorTextSecondary</item>
+        <item name="colorPrimary">@color/colorBlack</item>
+    </style>
+
+</resources>
